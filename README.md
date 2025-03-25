@@ -1,4 +1,3 @@
-# FBI--TIME-SERIES-EDA
 # FBI Crime Data Analysis
 
 ## Project Overview
